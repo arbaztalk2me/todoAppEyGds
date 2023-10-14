@@ -1,9 +1,9 @@
 .fas {
   cursor: pointer;
 }
-
+<!-- color -->
 .fa-plus:hover {
-  color: green;
+  color: green; 
 }
 .fa-edit:hover {
   color: green;
